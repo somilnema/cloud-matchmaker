@@ -18,8 +18,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Tata Group Synergy Explorer",
-  description: "AI-powered strategic analysis and recommendations across the Tata Group.",
+  title: "Tata Matchmaker | AI-Powered Strategic Synergy Engine",
+  description: "Identify the optimal Tata Group divisions and services for your enterprise through our advanced AI-driven strategic assessment funnel.",
 };
 
 export default function RootLayout({
